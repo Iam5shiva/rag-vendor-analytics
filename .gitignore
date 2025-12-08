@@ -3,3 +3,12 @@ __pycache__/
 .env
 RAG_Project.code-workspace
 .DS_Store
+data/temp_project_docs
+src/gemini_llm_for_ragas.py
+src/ollama_llm.py
+main.py
+RAG_Project.code-workspace
+Business-problem.pages
+data/reports/*
+data/vectorstore/
+data/reports/
