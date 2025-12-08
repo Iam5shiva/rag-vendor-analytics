@@ -18,20 +18,20 @@ It’s designed to answer questions like:
 
 ## 1. Project Structure
 
-RAG-Vendor-Analytics/
-data/
-    - vectorstore/faiss_index
-    - reports/
-src/
-    - __init__.py
-    - rag_pipeline.py
-    - eval_ragas.py
-    - embed_store.py
-    - ingest_docs.py
-    - app.py
-requirements.txt
-README.md
-.env
+RAG-Vendor-Analytics/<br>
+data/<br>
+    - vectorstore/faiss_index<br>
+    - reports/<br>
+src/<br>
+    - __init__.py<br>
+    - rag_pipeline.py<br>
+    - eval_ragas.py<br>
+    - embed_store.py<br>
+    - ingest_docs.py<br>
+    - app.py<br>
+requirements.txt<br>
+README.md<br>
+.env<br>
 
 ---
 
