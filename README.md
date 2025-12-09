@@ -105,3 +105,16 @@ These scores are solid for a real-world RAG system.
 - Ability to measure RAG quality  
 - Experience with LLM APIs (Gemini, Groq, Ollama)  
 - Ability to debug, optimize, and interpret RAG pipelines 
+
+## 6. Application Demo:
+
+Below is a snapshot of the working application showing document-based question answering using the RAG pipeline.
+
+### User Interface
+![RAG App UI](screenshots/app_ui.png)
+
+### Sample Query and Response
+![Sample Question Answering](screenshots/sample_query.png)
+
+The application retrieves relevant document chunks, constructs a grounded prompt, and generates an answer strictly from retrieved context.
+
